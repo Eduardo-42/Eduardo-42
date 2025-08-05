@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
 <h3 align="center">Desarrollador de Software | Especialista en [Tu Especialidad]</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardo-42&label=Profile%20views&color=0e75b6&style=flat" alt="Eduardo-42" /> </p>
 ---
 
 ### 🚀 Sobre Mí
