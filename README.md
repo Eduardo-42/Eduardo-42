@@ -1,21 +1,11 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy Eduardo Jaimes 👋</h1>
 <h3 align="center">Desarrollador de Software | Especialista en [Tu Especialidad]</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardo-42&label=Profile%20views&color=0e75b6&style=flat" alt="Eduardo-42" /> </p>
 ---
 
 ### 🚀 Sobre Mí
 
-Soy un desarrollador apasionado por [Menciona tu pasión, ej: crear soluciones eficientes y escalables]. Tengo experiencia trabajando con tecnologías de frontend y backend para construir aplicaciones web completas.
 
-- 🌱 Actualmente estoy aprendiendo **[Tecnología que estés aprendiendo]**.
-- 💬 Pregúntame sobre **React, Node.js, Python, y bases de datos SQL/NoSQL**.
-- 📫 Contáctame en **[tu.email@profesional.com]**.
-- 📄 Mi CV: **[Enlace a tu CV o Portafolio](https://ejemplo.com)**
-
-<br>
-
-### ✨ Declaración de Búsqueda de Empleo
-**Actualmente estoy en búsqueda activa de nuevas oportunidades laborales** como **[Rol que buscas, ej: Desarrollador Full-Stack]**. Estoy abierto a roles remotos o híbridos en [Tu Ciudad/País o "cualquier lugar"]. Si mi perfil encaja con alguna de sus vacantes, ¡me encantaría conversar!
 
 ---
 
@@ -31,10 +21,10 @@ Soy un desarrollador apasionado por [Menciona tu pasión, ej: crear soluciones e
 
 ### 📂 Proyectos Destacados
 
-| Proyecto | Stack | Código | Demo |
+| Proyecto | Stack | Código | 
 |---|---|---|---|
-| **Nombre del Proyecto 1** | React, Node.js, Express, MongoDB | [Ver Código](https://github.com/tu-usuario/repo1) | [Ver Demo](https://demo1.com) |
-| **Nombre del Proyecto 2** | Python, FastAPI, Docker | [Ver Código](https://github.com/tu-usuario/repo2) | No aplica |
+| **Nombre del Proyecto 1** | Python, FLask | [Ver Código]() |
+| **Nombre del Proyecto 2** | Python, FastAPI | [Ver Código](https://github.com/tu-usuario/repo2) |
 
 ---
 
